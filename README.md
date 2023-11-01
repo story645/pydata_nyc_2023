@@ -2,6 +2,30 @@ In this tutorial we will explore the Palmer Penguins dataset, starting with expl
 
 Matplotlib is a big library, and it can be difficult to know where to start. This tutorial is a guided tour through many of the essential features and concepts of Matplotlib so you can get started making publication-quality, animated, and interactive figures. We will be using the Penguins digit dataset as a case study.
 
+### Get started
+
+`git clone` this repo locally or open codespaces
+  
+If cloned locally, create the conda environment by going into the folder and typing:
+```
+path\to\pydata_nyc> conda env create -f environment.yml
+```
+then activate the environment
+```
+path\to\pydata_nyc> conda activate pynyc23
+```
+then open jupyterlab inside this folder:
+
+```
+path\to\pydata_nyc>(pynyc) jupyter lab
+```
+
+Then go to [notebook 1: static visualizations]()
+
+### Data acknowledgement 
+The data is included here from ease of use, but it is a direct copy paste of penguins in https://github.com/mwaskom/seaborn-data
+
+### Schedule
 This schedule/dataset is subject to change, but the rough plan is:
 
 start up: [10 minutes]
