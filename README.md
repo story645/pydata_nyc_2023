@@ -30,8 +30,8 @@ This schedule/dataset is subject to change, but the rough plan is:
 
 start up: [10 minutes]
 - verify install/open codespaces/get settled
-- find what you'd most like to learn how to make at https://matplotlib.org/devdocs/gallery/index.html
-- walk through our website
+- What most intrigues you at https://matplotlib.org/devdocs/gallery/index.html
+ - add link to shared notes: https://hackmd.io/@story645/pynyc23 
 
 Introduction [20 minutes]
 - figure→axes→elements diagram
