@@ -14,12 +14,12 @@ then activate the environment
 ```
 path\to\pydata_nyc> conda activate pynyc23
 ```
-then install the jupyter interactive extensions
+then install the jupyter interactive extensions:
+
 ```
 jupyter labextension install @jupyter-widgets/jupyterlab-manager
 jupyter labextension install jupyter-matplotlib
-``
-
+```
 then open jupyterlab inside this folder:
 
 ```
