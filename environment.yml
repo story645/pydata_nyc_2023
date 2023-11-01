@@ -1,0 +1,10 @@
+name: pynyc23
+channels: 
+  - conda-forge
+  - defaults
+dependencies:
+  - matplotlib
+  - ipympl
+  - jupyter-matplotlib>=0.11.2
+  - jupyterlab>=3
+  - ipywidgets
