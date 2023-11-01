@@ -1,3 +1,5 @@
+# https://github.com/story645/pydata_nyc_2023/
+
 In this tutorial we will explore the Palmer Penguins dataset, starting with exploratory charts, then creating a linked animation, and concluding with converting the animation into a simple interactive visualization. In doing so, this tutorial will unpack some of the fundamental concepts that underlie the architecture of Matplotlib, hopefully providing attendees with the foundation for creating effective visualizations using Matplotlib.
 
 Matplotlib is a big library, and it can be difficult to know where to start. This tutorial is a guided tour through many of the essential features and concepts of Matplotlib so you can get started making publication-quality, animated, and interactive figures. We will be using the Penguins digit dataset as a case study.
