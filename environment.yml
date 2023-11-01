@@ -5,6 +5,6 @@ channels:
 dependencies:
   - matplotlib
   - ipympl
-  - jupyter-matplotlib>=0.11.2
+  - jupyter-matplotlib>=0.11.3
   - jupyterlab>=3
   - ipywidgets
