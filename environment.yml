@@ -4,6 +4,7 @@ channels:
   - defaults
 dependencies:
   - matplotlib
+  - pandas
   - ipympl
   - jupyterlab>=3
   - ipywidgets
